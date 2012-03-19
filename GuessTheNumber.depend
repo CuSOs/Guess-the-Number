@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1331558438 source:c:\users\cuso4\desktop\program\c++\guessthenumber\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
+1330770199 c:\users\cuso4\desktop\program\c++\guessthenumber\takeaguess.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
+1331558538 source:c:\users\cuso4\desktop\program\c++\guessthenumber\takeaguess.cpp
+	"TakeAGuess.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
+1331558438 source:c:\users\cuso4\desktop\programmering\c++\guessthenumber\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
+1330770199 c:\users\cuso4\desktop\programmering\c++\guessthenumber\takeaguess.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
+1331558538 source:c:\users\cuso4\desktop\programmering\c++\guessthenumber\takeaguess.cpp
+	"TakeAGuess.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"TakeAGuess.h"
+
